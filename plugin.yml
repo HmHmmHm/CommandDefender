@@ -2,4 +2,7 @@ name: CommandDefender
 main: ifteam\CommandDefender\CommandDefender
 version: 1.0-Alpha
 author: ifteam
-api: [1.12.0]
+api:
+- 1.12.0
+- 1.13.0
+- 2.0.0
